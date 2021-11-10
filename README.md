@@ -1,4 +1,6 @@
 # vagrant-testbed
+![LICENSE](https://img.shields.io/github/license/erickills/vagrant-testbed?style=for-the-badge)
+![SIZE](https://img.shields.io/github/repo-size/erickills/vagrant-testbed)
 
 a generic alpine linux 38
 
