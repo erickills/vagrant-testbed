@@ -13,4 +13,3 @@ or
 ```
 vagrant init erickills/testbed \
   --box-version 2
-```
