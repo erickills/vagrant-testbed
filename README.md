@@ -10,7 +10,7 @@ optionally you can get and initiate vagrant box directly from:
 > https://app.vagrantup.com/erickills/boxes/testbed/versions/1
 
 or
-
-``` vagrant init erickills/testbed \
+```
+vagrant init erickills/testbed \
   --box-version 2
-
+```
