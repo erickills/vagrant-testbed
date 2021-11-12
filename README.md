@@ -12,5 +12,5 @@ optionally you can get and initiate vagrant box directly from:
 or
 
 ``` vagrant init erickills/testbed \
-  --box-version 2 ```
+  --box-version 2
 
