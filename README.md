@@ -12,8 +12,12 @@ Requirements:
 
 then clone this repo.
 
-optionally you can get and initiate vagrant box directly from:
+(old) optionally you can get and initiate vagrant box directly from:
 > https://app.vagrantup.com/erickills/boxes/testbed/versions/2
+
+box migrated on this link:
+>
+https://portal.cloud.hashicorp.com/vagrant/discover/erickills/testbed
 
 or
 ```
